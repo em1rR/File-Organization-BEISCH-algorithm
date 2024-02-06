@@ -1,0 +1,15 @@
+C:\Users\Guest1\source\repos\FileOrganizationOdev1\bin\Debug\net6.0\FileOrganizationAssignment.exe
+C:\Users\Guest1\source\repos\FileOrganizationOdev1\bin\Debug\net6.0\FileOrganizationAssignment.deps.json
+C:\Users\Guest1\source\repos\FileOrganizationOdev1\bin\Debug\net6.0\FileOrganizationAssignment.runtimeconfig.json
+C:\Users\Guest1\source\repos\FileOrganizationOdev1\bin\Debug\net6.0\FileOrganizationAssignment.dll
+C:\Users\Guest1\source\repos\FileOrganizationOdev1\bin\Debug\net6.0\FileOrganizationAssignment.pdb
+C:\Users\Guest1\source\repos\FileOrganizationOdev1\obj\Debug\net6.0\FileOrganizationAssignment.csproj.AssemblyReference.cache
+C:\Users\Guest1\source\repos\FileOrganizationOdev1\obj\Debug\net6.0\FileOrganizationAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guest1\source\repos\FileOrganizationOdev1\obj\Debug\net6.0\FileOrganizationAssignment.AssemblyInfoInputs.cache
+C:\Users\Guest1\source\repos\FileOrganizationOdev1\obj\Debug\net6.0\FileOrganizationAssignment.AssemblyInfo.cs
+C:\Users\Guest1\source\repos\FileOrganizationOdev1\obj\Debug\net6.0\FileOrganizationAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Guest1\source\repos\FileOrganizationOdev1\obj\Debug\net6.0\FileOrganizationAssignment.dll
+C:\Users\Guest1\source\repos\FileOrganizationOdev1\obj\Debug\net6.0\refint\FileOrganizationAssignment.dll
+C:\Users\Guest1\source\repos\FileOrganizationOdev1\obj\Debug\net6.0\FileOrganizationAssignment.pdb
+C:\Users\Guest1\source\repos\FileOrganizationOdev1\obj\Debug\net6.0\FileOrganizationAssignment.genruntimeconfig.cache
+C:\Users\Guest1\source\repos\FileOrganizationOdev1\obj\Debug\net6.0\ref\FileOrganizationAssignment.dll
