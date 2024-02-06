@@ -1,4 +1,3 @@
-![1](https://github.com/em1rR/File-Organization-BEISCH-algorithm/assets/46686523/b090f222-0594-4d0e-a832-b213cdbfa2bc)# File-Organization-BEISCH-algorithm
 BEISCH algorithm implementation in C#
 
 This code implements the Beisch algorithm. First, it generates random numbers. Then, it determines a suitable table size for hashing. Next, it places the numbers into the table and, if necessary, links them to the next number for that home address. Additionally, it allows searching for a number in the table and indicates how many probes are needed to retrieve that number.
